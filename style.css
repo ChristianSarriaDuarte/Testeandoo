@@ -1,0 +1,16 @@
+body{
+    font-family: Arial, Helvetica, sans-serif, Times, serif;
+    background-image: url("./imagenes/Fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.carousel{
+    width: 1000px;
+    height: 800px;
+    margin: auto;
+}
+
+.carousel img{
+    border-radius: 25px;
+}
