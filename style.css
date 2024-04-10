@@ -15,3 +15,7 @@ body{
 .carousel img{
     border-radius: 25px;
 }
+
+.card { 
+    margin-bottom: 20px !important;
+ }
