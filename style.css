@@ -19,3 +19,12 @@ body{
 .card { 
     margin-bottom: 20px !important;
  }
+
+ h1{
+    color: bisque;
+ }
+
+ p{
+    color: rgb(52, 95, 81);
+
+ }
